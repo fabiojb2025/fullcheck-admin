@@ -1,0 +1,9 @@
+{
+  "clientes": {
+    "ID_PROVISORIO": {
+      "nome": "Meu Computador Teste",
+      "validade": "2026-12-31",
+      "status": "ativo"
+    }
+  }
+}
